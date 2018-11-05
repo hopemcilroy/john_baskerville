@@ -18,7 +18,7 @@ Added List Items
 
 ## Home
 
-<b>Monday 29th October 2018</ul></b>
+<b>Monday 29th October 2018</b>
 
 Brief History of Type
-(https://hopemcilroy.github.io/john_baskerville/baskerville2.html)
+(https://hopemcilroy.github.io/john_baskerville/history1.html)
