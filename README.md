@@ -5,7 +5,7 @@
 
 - John Baskerville 
 
-    - <b>Version 1</b>(https://hopemcilroy.github.io/john_baskerville/baskerville1.html) 
+    *<b>Version 1</b>(https://hopemcilroy.github.io/john_baskerville/baskerville1.html) 
 Added first HTML page
 Monday 29th October 2018
  
