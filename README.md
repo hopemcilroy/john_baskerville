@@ -21,5 +21,6 @@ Monday 5th November 2018
 <b>John Baskerville</b>
 
 - [Brief History of Type](https://hopemcilroy.github.io/john_baskerville/history1.html)
+Added HTML 
 
 Monday 29th October 2018
