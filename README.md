@@ -20,6 +20,6 @@ Monday 5th November 2018
 
 <b>John Baskerville</b>
 
-- [Brief History of Type] (https://hopemcilroy.github.io/john_baskerville/history1.html)
+- [&lt;Brief History of Type&gt;] (https://hopemcilroy.github.io/john_baskerville/history1.html)
 
 Monday 29th October 2018
