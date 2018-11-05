@@ -3,14 +3,14 @@
 
 ## Class
 
-- John Baskerville 
+<b>John Baskerville</b> 
 
-    - <b>Version 1</b>(https://hopemcilroy.github.io/john_baskerville/baskerville1.html) 
+- Version 1 (https://hopemcilroy.github.io/john_baskerville/baskerville1.html) 
 Added first HTML page
 
 Monday 29th October 2018
 
-- <b>Version 2</b>(https://hopemcilroy.github.io/john_baskerville/baskerville2.html) 
+- Version 2 (https://hopemcilroy.github.io/john_baskerville/baskerville2.html) 
 Added List Items 
 
 Monday 5th November 2018
