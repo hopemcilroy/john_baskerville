@@ -1,9 +1,9 @@
 # john_baskerville
 
-Monday 29th October 2018
 
-# Version 1
-[John Baskerville 1]
+## Version 1
+### John Baskerville 1
+Monday 29th October 2018
 (https://hopemcilroy.github.io/john_baskerville/baskerville1.html) 
 Added first HTML page
  
