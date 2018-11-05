@@ -3,7 +3,7 @@
 
 ## Class
 
-Monday 29th October 2018
+<b>Monday 29th October 2018</b>
 
 John Baskerville 1
 (https://hopemcilroy.github.io/john_baskerville/baskerville1.html) 
