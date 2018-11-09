@@ -14,7 +14,10 @@ Added List Items (Monday 5th November 2018)
 ## Home
 
 
-<b>John Baskerville</b>
+<b>Brief History of Type</b>
 
-- [Brief History of Type](https://hopemcilroy.github.io/john_baskerville/history1.html)
+- [Version 1](https://hopemcilroy.github.io/john_baskerville/history1.html)
 Added HTML(Monday 29th October 2018)
+
+- [Version 2](https://hopemcilroy.github.io/john_baskerville/history2.html)
+Added Lists And Anchors (Monday 5th November 2018)
