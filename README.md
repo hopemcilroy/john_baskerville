@@ -12,7 +12,7 @@ Added first HTML page (Monday 29th October 2018)
 Added List Items (Monday 5th November 2018)
 
 - [Version 3](https://hopemcilroy.github.io/john_baskerville/baskerville3.html) 
-Added Tables (Monday 12th November 2018)
+Added Tables and Images (Monday 12th November 2018)
 
 
 ## Home
