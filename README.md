@@ -14,6 +14,9 @@ Added List Items (Monday 5th November 2018)
 - [Version 3](https://hopemcilroy.github.io/john_baskerville/baskerville3.html) 
 Added Tables and Images (Monday 12th November 2018)
 
+- [Version 4](https://hopemcilroy.github.io/john_baskerville/baskerville4.html) 
+Added CSS (Monday 19th November 2018)
+
 
 ## Home
 
