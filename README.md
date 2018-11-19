@@ -31,3 +31,6 @@ Added Lists And Anchors (Monday 5th November 2018)
 
 - [Version 3](https://hopemcilroy.github.io/john_baskerville/history3.html)
 Added Table (Monday 12th November 2018)
+
+- [Version 4](https://hopemcilroy.github.io/john_baskerville/history4.html)
+Added CSS (Monday 19th November 2018)
