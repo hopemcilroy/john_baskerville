@@ -31,25 +31,25 @@ p, li, blockquote {
 }
 
 h1 {
-    font-size: 3.998em;
+    font-size: 2.441em;
     margin-top: 1em;
     margin-bottom: 0.1em;
     
 }
 
 h2 {
-    font-size: 2.827em;
+    font-size: 1.953em;
     margin: 1em 0 ;
    
 }
 
 h3 {
-    font-size: 1.999em
+    font-size: 1.563em
 }
 
 blockquote {
     hanging-punctuation: first;
-    text-indent: 0.55em;
+    text-indent: -0.5em;
     
 }
 
