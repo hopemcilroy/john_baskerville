@@ -17,6 +17,8 @@ Added Tables and Images (Monday 12th November 2018)
 - [Version 4](https://hopemcilroy.github.io/john_baskerville/baskerville4.html) 
 Added CSS (Monday 19th November 2018)
 
+- [Version 5](https://hopemcilroy.github.io/john_baskerville/baskerville5.html) 
+Added CSS (Monday 26th November 2018)
 
 ## Home
 
