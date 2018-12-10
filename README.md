@@ -20,6 +20,10 @@ Added CSS (Monday 19th November 2018)
 - [Version 5](https://hopemcilroy.github.io/john_baskerville/baskerville5.html) 
 Added CSS (Monday 26th November 2018)
 
+- [Version 6](https://hopemcilroy.github.io/john_baskerville/baskerville6.html) 
+Added Icons and Transitions (Monday 3rd December 2018)
+
+
 ## Home
 
 
