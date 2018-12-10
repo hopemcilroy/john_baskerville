@@ -18,7 +18,7 @@ Added Tables and Images (Monday 12th November 2018)
 Added CSS (Monday 19th November 2018)
 
 - [Version 5](https://hopemcilroy.github.io/john_baskerville/baskerville5.html) 
-Added CSS (Monday 26th November 2018)
+Added Google fonts (Monday 26th November 2018)
 
 - [Version 6](https://hopemcilroy.github.io/john_baskerville/baskerville6.html) 
 Added Icons and Transitions (Monday 3rd December 2018)
@@ -40,3 +40,6 @@ Added Table (Monday 12th November 2018)
 
 - [Version 4](https://hopemcilroy.github.io/john_baskerville/history4.html)
 Added CSS (Monday 19th November 2018)
+
+- [Version 5](https://hopemcilroy.github.io/john_baskerville/history5.html)
+Added Google fonts (Monday 26th November 2018)
