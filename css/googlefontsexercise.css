@@ -1,0 +1,66 @@
+/* ------ CSS RESET ------*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size:20px;
+    line-height: 1em;
+  }
+
+/* ------- MAIN STYLING -------*/
+
+body {
+    width: 75%;
+    max-width: 670px;
+    margin:auto;
+    background: #fafafa;
+    color: #333;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.B :first-letter {
+font-size: 3.26em;
+height: 30px;
+line-height: 30pt;
+position: relative;
+float: left;
+display: block;
+        
+    }
+
+
+/*------- TYPOGRAPHY --------*/
+
+h1, h2, h3 {
+    font-weight: normal;
+    color: #333;
+    text-align: left 
+}
+
+p, li, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 3.998em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    }
+
+h2 {
+    font-size: 2.827em;
+    margin: 1em 0 ;
+   
+}
+
+h3 {
+    font-size: 1.999em;
+    text-transform: uppercase;
+}
+
+blockquote {
+    hanging-punctuation: first;
+    text-indent: -0.01em;
+    
+}
